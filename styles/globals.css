@@ -79,3 +79,9 @@
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 }
+
+h1 a {
+  background-image: linear-gradient(rgba(255,0,0,1) 0%, rgba(255,0,0,1) 31%, rgba(243,255,0,1) 47%, rgba(0,255,6,1) 62%, rgba(69,62,244,1) 78%, rgba(241,46,248,1) 94%, rgba(216,0,255,1) 100%);
+  color: transparent;
+  background-clip: text;
+}

@@ -11,7 +11,7 @@ import {
 import { Stage } from "@/components/stage"
 
 export const metadata = {
-  title: "Create a Community Handle for your community",
+  title: "Create your own!",
   description: "Host your own tool",
 }
 
@@ -24,8 +24,8 @@ export default function CommunityPage() {
           for your community
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
-          Want a custom community handle for your community, like
-          @alex.swifties.social, @jay.army.social, or @jane.kawaii.social? Follow
+          Want a custom handle for your community, like
+          @jane.kawaii.social or @alex.lgbtq.social? Follow
           these steps to get one.
         </p>
       </div>
