@@ -70,7 +70,7 @@ export default function CommunityPage() {
       <div className="flex max-w-[980px] flex-col items-start gap-4">
         <h3 className="text-2xl font-bold leading-tight tracking-tighter sm:text-2xl md:text-4xl lg:text-4xl">
           <a href="https://bsky.app/profile/did:plc:53kudcqj7sizx2eaclc5sicc/lists/3lb3fjynrny2d" className="underline">
-            a very british bigotry
+            TERFs
           </a>
         </h3>
         <p>
